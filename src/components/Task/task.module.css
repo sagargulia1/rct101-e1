@@ -1,0 +1,10 @@
+.task {
+  /* Sample  */
+  display: flex;
+  margin: 10px 0 10px 0;
+  justify-content: space-around;
+}
+.task > button {
+  background-color: white;
+  border: none;
+}
